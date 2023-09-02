@@ -1,0 +1,181 @@
+
+body {
+    max-width: 1200px; /* Set the maximum width you want */
+    
+    margin: 0  auto;
+    background-image:url(./RE4bg.png) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   background-size: 100%;
+ 
+  }
+  
+
+
+
+.img{
+
+position: relative;
+
+top: 30%;
+left: 80%;
+margin-left: -20%;
+padding-left: -40%;
+border: 20px solid silver;
+border-radius: 16px;
+margin-bottom: 80%;
+
+
+
+
+
+
+
+}
+
+.RE4__paragraph{
+
+display: flex;
+margin-right: 10%;
+font-size: 30px;
+margin-left: -30%;
+border: 20px solid silver;
+padding: 30px;
+border-radius: 16px;
+color: white;
+background-color: black ;
+
+
+
+
+
+
+
+
+}
+
+.RE4{
+    justify-content: center;
+    align-items: center;
+   
+display: flex;
+flex-direction: column;
+position: relative;
+left: 20%;
+margin-top: 10%;
+padding-right: -10%;
+
+
+
+
+
+
+}
+
+.RE4items{
+
+display: flex;
+justify-items: center;
+gap: -300px;
+
+
+
+
+
+
+
+
+}
+
+.RE4__title{
+font-size: 60px;
+position: relative;
+left: -10%;
+color: white;
+border: 2px solid silver;
+background-color: black;
+border-radius: 16px;
+
+
+   
+
+
+
+}
+
+.noteandimg{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+position: relative;
+
+
+
+
+
+
+}
+
+.note{
+
+position: relative;
+left: 70%;
+bottom: 4%;
+font-size: 80px;
+border: 30px solid green;
+border-radius: 16px;
+background-color: green;
+color: white;
+
+
+
+
+
+
+}
+.RE4__link{
+position: relative;
+right: 20%;    
+text-decoration: none;
+color: white;
+background-color: black;
+border: 2px solid darkblue;
+font-size: 60px;
+padding: 1%;
+border-radius: 16px;
+
+
+
+
+
+
+
+
+
+}
+
+
+
+.iconlink{
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+
+}
+
+.icon{
+    position: relative;
+
+width: 12%;
+right: 25%;
+
+
+
+}
+    
